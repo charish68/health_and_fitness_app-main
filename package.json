@@ -1,0 +1,45 @@
+{
+  "name": "health_and_fitness_app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.8.3",
+    "chart.js": "^4.4.8",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.54.2",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.22.0",
+    "react-scroll": "^1.9.3",
+    "react-toastify": "^11.0.5"
+  },
+  "scripts": {
+    "dev": "vite",
+    "start": "set PORT=3000 && react-scripts start",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.1.6"
+  }
+}
