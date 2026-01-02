@@ -4,8 +4,11 @@ For frontend users:
 
 NAVIGATE TO FRONTEND file
 Use command "npm install"
+
 use "npm start" to start For Backend users:
 NAVIGATE TO BACKEND file
+
 use commadn "pip install -r requirements.txt"
 to run "uvicorn main:app --reload"
+
 !! PLEASE PULL THE CODES BEFORE PUSHING UR CODE !
